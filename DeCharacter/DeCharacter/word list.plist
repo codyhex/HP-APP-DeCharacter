@@ -10,26 +10,8 @@
 			<string>90918</string>
 		</array>
 	</array>
-	<key>Directions</key>
-	<array>
-		<array>
-			<string>North</string>
-			<string>北</string>
-			<string>12110</string>
-		</array>
-		<array>
-			<string>East</string>
-			<string>东</string>
-			<string>40904</string>
-		</array>
-	</array>
 	<key>Actions</key>
 	<array>
-		<array>
-			<string>Stand</string>
-			<string>站</string>
-			<string>01160</string>
-		</array>
 		<array>
 			<string>Eat</string>
 			<string>吃</string>
@@ -39,6 +21,24 @@
 			<string>Drink</string>
 			<string>喝</string>
 			<string>66027</string>
+		</array>
+		<array>
+			<string>Stand</string>
+			<string>站</string>
+			<string>01160</string>
+		</array>
+	</array>
+	<key>Directions</key>
+	<array>
+		<array>
+			<string>East</string>
+			<string>东</string>
+			<string>40904</string>
+		</array>
+		<array>
+			<string>North</string>
+			<string>北</string>
+			<string>12110</string>
 		</array>
 	</array>
 </dict>

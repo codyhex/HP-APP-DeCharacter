@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Directions</key>
+	<array>
+		<array>
+			<string>North</string>
+			<string>北</string>
+			<string>12110</string>
+		</array>
+		<array>
+			<string>East</string>
+			<string>东</string>
+			<string>40904</string>
+		</array>
+	</array>
+	<key>Actions</key>
+	<array>
+		<array>
+			<string>Eat</string>
+			<string>吃</string>
+			<string>68017</string>
+		</array>
+		<array>
+			<string>Drink</string>
+			<string>喝</string>
+			<string>66027</string>
+		</array>
+	</array>
+</dict>
+</plist>

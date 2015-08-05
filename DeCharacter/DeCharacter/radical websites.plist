@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>口</key>
+	<array>
+		<string>Radical 30</string>
+		<string>kǒu</string>
+		<string>口</string>
+		<string>https://en.wikipedia.org/wiki/Radical_30</string>
+	</array>
+	<key>囗</key>
+	<array>
+		<string>Radical 31</string>
+		<string>wéi</string>
+		<string>囗</string>
+		<string>https://en.wikipedia.org/wiki/Radical_31</string>
+	</array>
+	<key>囧</key>
+	<array>
+		<string>Radical ?</string>
+		<string>jiong</string>
+		<string>囧</string>
+		<string>https://en.wikipedia.org/wiki/Main_Page</string>
+	</array>
+</dict>
+</plist>

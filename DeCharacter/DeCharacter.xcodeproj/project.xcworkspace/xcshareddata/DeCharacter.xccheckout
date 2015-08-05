@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CBF7C5D2-F281-452B-9859-59773F75670B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3CA420612AEAF4C6DA7C9B60EED47E35735A1203</key>
+		<string>https://github.com/xia50/DeCharacter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DeCharacter/DeCharacter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3CA420612AEAF4C6DA7C9B60EED47E35735A1203</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xia50/DeCharacter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3CA420612AEAF4C6DA7C9B60EED47E35735A1203</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3CA420612AEAF4C6DA7C9B60EED47E35735A1203</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DeCharacter</string>
+		</dict>
+	</array>
+</dict>
+</plist>

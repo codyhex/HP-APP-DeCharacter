@@ -2,6 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>0-1--</key>
+	<array>
+		<string>立</string>
+	</array>
+	<key>-0-1-</key>
+	<array>
+		<string>立</string>
+	</array>
+	<key>9-9--</key>
+	<array>
+		<string>米</string>
+	</array>
+	<key>-2-1-</key>
+	<array>
+		<string>匕</string>
+	</array>
 	<key>6-0--</key>
 	<array>
 		<string>囗</string>

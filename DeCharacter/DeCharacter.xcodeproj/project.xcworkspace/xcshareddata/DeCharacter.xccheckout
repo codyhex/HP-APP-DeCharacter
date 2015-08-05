@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>CBF7C5D2-F281-452B-9859-59773F75670B</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>DeCharacter</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>3CA420612AEAF4C6DA7C9B60EED47E35735A1203</key>
 		<string>https://github.com/xia50/DeCharacter.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>DeCharacter/DeCharacter.xcodeproj/project.xcworkspace</string>
+	<string>DeCharacter/DeCharacter.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>3CA420612AEAF4C6DA7C9B60EED47E35735A1203</key>

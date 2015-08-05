@@ -2,6 +2,27 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>米</key>
+	<array>
+		<string>Radical 119</string>
+		<string>mǐ</string>
+		<string>米</string>
+		<string>https://en.wikipedia.org/wiki/Radical_119</string>
+	</array>
+	<key>立</key>
+	<array>
+		<string>Radical 117</string>
+		<string>lì</string>
+		<string>立</string>
+		<string>https://en.wikipedia.org/wiki/Radical_117</string>
+	</array>
+	<key>匕</key>
+	<array>
+		<string>Radical 21</string>
+		<string>bǐ</string>
+		<string>匕</string>
+		<string>https://en.wikipedia.org/wiki/Radical_21</string>
+	</array>
 	<key>口</key>
 	<array>
 		<string>Radical 30</string>
